@@ -54,7 +54,7 @@ public class Exp10 {
         sa.displayDetails();
         sa.calculateInterest();
         System.out.println();
-        System.out.println("----- Current Account -----");
+        System.out.println("---- Current Account ----");
         ca.deposit(3000);
         ca.displayDetails();
         ca.calculateInterest();
